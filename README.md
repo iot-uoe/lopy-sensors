@@ -1,1 +1,1 @@
-# copy-sensors
+# Setting up sensors for LoPy devices
